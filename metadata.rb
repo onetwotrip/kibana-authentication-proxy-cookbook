@@ -8,5 +8,5 @@ version          '0.1.0'
 
 depends 'chef-sugar'
 depends 'git'
-depends 'nodejs', '~> 2.1.0'
+depends 'nodejs'
 depends 'authbind', '~> 0.1.8'
